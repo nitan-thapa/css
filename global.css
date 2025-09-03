@@ -1,0 +1,32 @@
+.bg-red {
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  display: inline;
+}
+
+.btn {
+  width: 200px;
+  height: 40px;
+  border: solid blue 2px;
+}
+
+.click {
+  border: solid black 2px;
+  display: inline-block;
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+}
+
+.rec {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 50%;
+}
